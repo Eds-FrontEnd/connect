@@ -51,8 +51,14 @@ Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu ambi
    ```bash
    npm run dev
    ```
+**ATENÇÃO** - Se caso for necessário pode executar esses comandos abaixo:
+ ```bash
+   npm install drizzle-kit --save-dev
+   ```
 
-   ######
+ ```bash
+   npx drizzle-kit migrate
+   ```
 
 ## Instalação - Front
 
